@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prrskillhub
 - 👀 I’m interested in the field of Data
-- 🌱 I’m currently learning about Data
-- 💞️ I’m looking to collaborate with all the one working with Data
+- 🌱 I’m currently learning to extract the insight value from the Data
+- 💞️ I’m looking to collaborate to all the ones who extract the insight values from the Data
 - 📫 How to reach me? to prrskillhub Data
 
 <!---
